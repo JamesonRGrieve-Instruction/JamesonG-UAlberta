@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm James!
+
+I teach full stack application development at the University of Alberta.
 
 <!--
 **JamesonG-UAlberta/JamesonG-UAlberta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
